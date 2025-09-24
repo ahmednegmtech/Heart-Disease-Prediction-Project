@@ -5,7 +5,7 @@
 
 A complete, end-to-end data science project that predicts the likelihood of heart disease using the UCI Heart Disease dataset. This repository showcases a full project lifecycle from data cleaning and exploratory data analysis to feature engineering, model comparison, and hyperparameter tuning.
 
-![Final ROC Curve Comparison]('../results/roc_curve_comparison.png')
+![Final ROC Curve Comparison](results/roc_curve_comparison.png)
 
 ---
 
