@@ -81,8 +81,8 @@ To replicate this analysis, please follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-    cd YourRepoName
+    git clone [https://github.com/ahmednegmtech/Heart-Disease-Prediction-Project.git](https://github.com/ahmednegmtech/Heart-Disease-Prediction-Project.git)
+    cd Heart-Disease-Prediction-Project
     ```
 2.  **Create and Activate a Virtual Environment:**
     ```bash
